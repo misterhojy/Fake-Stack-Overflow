@@ -1,0 +1,108 @@
+#form-div {
+    background-color: white;
+    display: block;
+    margin-left: 15%;
+    height: 600px;
+    overflow: scroll;
+}
+
+/*
+.form-section {
+
+}
+*/
+
+.form-label {
+    font-size: 21px;
+    margin-bottom: 10px;
+    font-weight: 500;
+}
+
+.form-sub-label {
+    font-size: 14px;
+    font-style: italic;
+    padding-left: 5px;
+    margin: 5px;
+}
+
+.form-input {
+    width: 80%;
+    size: 100;
+    font-size: 20px;
+    height: 5%;
+}
+
+.form-big-input {
+    font-family: Helvetica;
+    font-size: 20px;
+    width: 80%;
+    height: 10%;
+}
+
+/*
+#title {
+    margin-left: 8%; 
+    font-weight: bolder;
+    margin-right: 5%; 
+}
+#text {
+
+}
+#tags {
+
+}
+#user {
+
+}
+*/
+
+.final-div {
+    margin-right: 20%;
+}
+
+#post-question-button {
+    margin-top: 10px; 
+    margin-bottom: 20px;
+    width: auto; 
+}
+
+.end-message {
+    font-size: 15px;
+    margin: 5%;
+    color: red; 
+    float: right;
+}
+
+.error-message {
+    color: red;
+    font-size: 13px;
+    margin-top: 1%;
+    height: 1%;
+}
+
+#register-form-div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.register-input {
+    height: 40px;
+    width: 300px;
+    font-size: 20px;
+}
+
+#signup-button {
+    display: block;
+    margin-right: 0%;
+    margin-top: 15px;
+}
+
+#delete-question-button {
+    margin-left: 15%;
+    height: 50px;
+    background-color: rgb(222, 16, 112);
+    color: white;
+}
+
+
