@@ -12,9 +12,9 @@ In client directory
 - npm install
 - npm install axios
 
-Now to run application
-run backend server
-- nodemon server/server.js
+Now to run application:
+-Go in server directory, run backend server
+- nodemon server.js
 
 Go in client directory, to launch frontend
 - npm start
